@@ -1,8 +1,6 @@
 # StockToCSV
 
-This project was created in January 2020, it is highly inefficient and the project's creator's skill has improved significantly. It was posted to github to highlight improvement in my technical skills.
-
--------------------
+January 2020
 
 This project allows you to input the name of stock ticker symbols.
 With the use of an API we are able to give you the company share price in a comma seperated value file for easy input into Excel Spreadsheets
